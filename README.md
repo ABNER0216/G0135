@@ -4,18 +4,18 @@ G0135 Mathematical Graphics
 
 Chapter2:
 
-[Notes](Notes/Chapter2.md)
+[Notes](Notes/chapter2.md)
 
 [Code](Code/Chapter2)
 
 Chapter3:
 
-[Notes](Notes/Chapter3.md)
+[Notes](Notes/chapter3.md)
 
 [Code](Code/Chapter3)
 
 Chapter4:
 
-[Notes](Notes/Chapter4)
+[Notes](Notes/chapter4.md)
 
 [Code](Code/Chapter4/)
